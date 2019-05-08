@@ -18,8 +18,6 @@ Reference:https://www.itbulu.com/err-wget-not-trusted.html
 或者我们可以：
 
 apt-get install ca-certificates -y #Debian/Ubuntu
-
 yum install ca-certificates -y  #CentOS
-
-安装完毕之后应该是可以不用上面脚本直接可以wget。
+```
 
