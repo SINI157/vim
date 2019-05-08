@@ -1,5 +1,5 @@
-vim 使用方法技巧
------------------
+#### vim 使用方法技巧
+
 * SecureCRT右键粘贴异常（出现VISUAL BLOCK)
 
 解决办法：
@@ -10,7 +10,7 @@ vim 使用方法技巧
 Reference:https://www.itbulu.com/err-wget-not-trusted.html
 
 解决办法：
-
+```
 apt-get install ca-certificates -y #Debian/Ubuntu
 yum install ca-certificates -y  #CentOS
 ```
