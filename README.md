@@ -11,12 +11,6 @@ Reference:https://www.itbulu.com/err-wget-not-trusted.html
 
 解决办法：
 
---no-check-certificate
-
-我们可以直接在wget后面加上脚本即可。
-
-或者我们可以：
-
 apt-get install ca-certificates -y #Debian/Ubuntu
 yum install ca-certificates -y  #CentOS
 ```
